@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [ValentineKarimi](https://github.com/ValentineKarimi/week3_IP.git)
+- [ValentineKarimi](https://github.com/ValentineKarimi/Week_3_IP.git)
 
 ## Project setup instructions
 To start using this project use the following commands:
